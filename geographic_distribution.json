@@ -1,0 +1,44 @@
+{
+    "geographic_distribution": [
+        {
+            "location": "Cairo, Egypt",
+            "count": 108
+        },
+        {
+            "location": "Giza, Egypt",
+            "count": 38
+        },
+        {
+            "location": "Riyadh, Saudi Arabia",
+            "count": 28
+        },
+        {
+            "location": "Dubai, United Arab Emirates",
+            "count": 20
+        },
+        {
+            "location": "Sharqia, Egypt",
+            "count": 4
+        },
+        {
+            "location": "Alexandria, Egypt",
+            "count": 4
+        },
+        {
+            "location": "Doha, Qatar",
+            "count": 3
+        },
+        {
+            "location": "Abu Dhabi, United Arab Emirates",
+            "count": 2
+        },
+        {
+            "location": "Gharbia, Egypt",
+            "count": 1
+        },
+        {
+            "location": "Kuwait City, Kuwait",
+            "count": 1
+        }
+    ]
+}

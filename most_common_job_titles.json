@@ -1,0 +1,44 @@
+{
+    "most_common_job_titles": [
+        {
+            "title": "Cost Accountant",
+            "count": 10
+        },
+        {
+            "title": "Financial Analyst",
+            "count": 7
+        },
+        {
+            "title": "Business Analyst",
+            "count": 7
+        },
+        {
+            "title": "Data Engineer",
+            "count": 6
+        },
+        {
+            "title": "Data Analyst",
+            "count": 5
+        },
+        {
+            "title": "Senior Business Analyst",
+            "count": 4
+        },
+        {
+            "title": "SOC Analyst",
+            "count": 3
+        },
+        {
+            "title": "Software Business Analyst",
+            "count": 2
+        },
+        {
+            "title": "Sales Analyst",
+            "count": 2
+        },
+        {
+            "title": "Administrative Clerk - Driver",
+            "count": 2
+        }
+    ]
+}
