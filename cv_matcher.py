@@ -20,7 +20,7 @@ def extract_text_from_pdf(pdf_file_path):
     return cv_text.lower()
 
 # Path to the user's CV PDF file
-cv_pdf_path = r'D:\movie\MOHAMED_ABDELMONIEM_Resume_27-08-2023-06-32-18.pdf'
+cv_pdf_path = r'add the cv file path'
 
 # Extract text from the user's CV
 user_cv_text = extract_text_from_pdf(cv_pdf_path)
